@@ -1,5 +1,5 @@
 <div align="center">
-  <img border-radius="15px" src="https://miro.medium.com/v2/resize:fit:1400/1*05FsLZxROuLGUawC79KJ5w.gif" width="500" height="275"/>
+  <img border-radius="15px" src="https://github.com/kanishkaminecraft/ytdata/assets/113976869/96203203-fb19-446d-bdee-48c5e8e292c0" width="512" height="512"/>
   <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0-red?style=for-the-badge">
     <a href="https://www.instagram.com/aaryaaashu00/" target="_blank"><img src="https://img.shields.io/badge/IG-%40$AVSUS-red?style=for-the-badge&logo=instagram"></a>
